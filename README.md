@@ -3,7 +3,7 @@
 <p class="author"><em>Autor: Emilio Arenas</em></p>
 </div>
 
-# Usuarios mejor valorados en Stackoverflow <img align="center" width="100" height="200" src="image/Imagen1.png"> 
+# Usuarios mejor valorados en Stackoverflow <img align="center" width="150" height="200" src="image/Imagen1.png"> 
 
 ## Contexto
 

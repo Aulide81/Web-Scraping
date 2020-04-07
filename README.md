@@ -1,7 +1,7 @@
 <div class="fluid-row" id="header">
-<h1 class="title toc-ignore">Mineria de dades: PEC3 Classificació arbres de decissió</h1>
-<h4 class="author"><em>Autor: Emilio Arenas</em></h4>
-<h4 class="date"><em>Noviembre 2018</em></h4>
+<h1 class="title toc-ignore">Tiplogía y ciclo de vida de los datos: Práctica 1</h1>
+<h6 class="author"><em>Autor: Emilio Arenas</em></h6>
+<h6 class="date"><em>Abril 2020</em></h6>
 </div>
 
 # Usuarios mejor valorados en Stackoverflow <img align="center" width="100" height="100" src="image/Imagen1.png"> 

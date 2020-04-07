@@ -1,5 +1,6 @@
 # Usuarios mejor valorados en Stackoverflow <img align="center" width="100" height="100" src="image/Imagen1.png"> 
 
+## Contexto
 En este proyecto se ha decidido investigar sobre Satckoverflow, un sitio web utilizado por una comunidad de desarrolladores informáticos, en la cual otros desarralladores pueden encontrar soluciones a problemas de programación de diferentes lenguajes.
 
 Esta web pretende ser (y lo consigue) una valios ayuda para todo aquel que este encallado en alguna parte de su código de programación, fomentando la correcta formulación de las dudas y al igual que la adecuación de sus respuestas. Así de simple es su funcionamiento, pues básicamente las tres acciones más importantes en esta plataforma son preguntar, contestar y editar. 

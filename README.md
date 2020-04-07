@@ -1,7 +1,8 @@
----
-author: "Autor: Emilio Arenas"
-date: "Noviembre 2018"
----
+<div class="fluid-row" id="header">
+<h1 class="title toc-ignore">Mineria de dades: PEC3 Classificació arbres de decissió</h1>
+<h4 class="author"><em>Autor: Emilio Arenas</em></h4>
+<h4 class="date"><em>Noviembre 2018</em></h4>
+</div>
 
 # Usuarios mejor valorados en Stackoverflow <img align="center" width="100" height="100" src="image/Imagen1.png"> 
 

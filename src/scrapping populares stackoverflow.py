@@ -54,6 +54,7 @@ for i,j,k,l in zip(pos,change,reputation_total,reputation_year):
     ranking_values.append([i,j,k,l])
 
 #Dentro de cada usuario, extraemos informacion sobre sus intervenciones.
+#Obtenemos primero el link de su perfil.
 data_top_users=[]
 for i in range(0,len(info_50)):
     info=info_50[i]
@@ -66,7 +67,9 @@ for i in range(0,len(info_50)):
     data.extend(insignias)
     data.extend(ranking_values[i])
     data_top_users.append(data)
-
+    
+#En posesión de los links de los perfiles, accedemos a cada uno de ellos para
+#"raspar" la información que creemos más relevante.
 for i in range(0,len(data_top_users)):
     url=data_top_users[i][1]
     page=requests.get(url,headers=headers)

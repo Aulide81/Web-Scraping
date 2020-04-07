@@ -20,7 +20,7 @@ En este proyecto, accederemos al top 50 de usuarios con más reputación de lo q
 
 ## Descripción
 
-Como se refiere el título, el dataset está basado en la información más importante a para la evaluación de un usuario. En este dataset se presenta los datos más relevantes para cada uno de los usuarios pertenecientes al top 50 en reputación de este año en curso 2020. Los datos han sido extraídos en su formato natural, por lo tanto los conceptos numéricos (que son enteros) los encontrará en ese formato sin signo decimal ni signo de millares, de esta manera, se podrá cargar el dataset en el software preferido y trabajar de inmediato si así se desea.
+Como se refiere el título, el dataset está basado en la información más importante para la evaluación de un usuario. En este dataset se presenta los datos más relevantes para cada uno de los usuarios pertenecientes al top 50 en reputación de este año en curso 2020. Los datos han sido extraídos en su formato natural, por lo tanto los conceptos numéricos (que son enteros) los encontrará en ese formato sin signo decimal ni signo de millares, de esta manera, se podrá cargar el dataset en el software preferido y trabajar de inmediato si así se desea.
 
 ## Contenido
 

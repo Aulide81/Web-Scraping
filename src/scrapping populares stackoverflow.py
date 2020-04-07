@@ -1,4 +1,7 @@
-﻿#Librerias necesarias
+#Aunque el siguiente código se puede adaptar para definirlo como una función de Python,
+#está dispuesto para que se utilizado en el modo interactivo de Python (IPython).
+
+#Librerias necesarias
 import requests
 from bs4 import BeautifulSoup
 import re

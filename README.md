@@ -39,3 +39,25 @@ El dataset consta de 50 observaciones y 16 atributos atributos:
 - **pct_posts_top_tag:** Porcentage sobre el total, que representa el número posts de la tématica que más ha participado (durante toda su actividad).
 
 Los datos fueron recopilados por medio de web scraping en Python sobre las páginas individuales de cada usuario disponibles en la web stackoverflow, pero en primer lugar se extrajo del ranking los 50 usuarios mejor valorados, que se encuentra disponible [aquí](https://stackexchange.com/leagues). Por medio de web scraping, conseguimos el nombre de usuario, link de su perfil, entre otras. Después, en disposición de estos links, se accede a cada una de las páginas individuales donde se encuentra el resto de información relevante y que es obtenida por más web scraping. Por último, los datos se almacenan en fichero CSV.
+
+## Inspiración
+
+El interés de analizar este conjunto de datos reside en el auge actual en las tecnólogias de software libre y los proyectos open-source. Plataformas como Stackoverflow son utilziadas periodicamente para extraer información de las tendencias actuales en lo que lenguajes de promación se refiere (ej: indice Tiobe) y guían a muchos a escoger el proximo lenguaje en aprender.
+
+Esta set de datos además de mostrar quienes son los usuarios mejor valorados de la plataforma, también muestran en que temas parecen estar más especializados y a cuanta gente alcanza.
+
+## Agradecimientos
+
+El propietario del sitio web, y por lo tanto, del conjunto de datos es Stack Exchange.com, una red de webs que facilita las estadísticas de los usuarios analizados. Podemos contactar con la organización por medio de su página [web](https://stackoverflow.com/contact?referrer=https://stackoverflow.com/company/compensation/calculator).
+
+En la página web, la organización expresa que esta en contra del scraping, así que se preferio contactar contactar con la organización para obtener su consentimiento. Para obtener el visto bueno de la organización, nos comprometimos a que no fuera una experiencia aislada y no una acción recurrente.
+
+## Licencia
+
+Una posible licencia para este conjunto de datos podría ser  CC BY-SA 4.0 License. La elección se basa en la ideoneidad de las clasulas que en ella se presentan en relación con el trabajo realizado donde:
+
+- Se prohibe el nombre del creador del conjunto de datos generado y se indican los cambios realizados sobre estos. De esta manera, se reconoce el trabajo de terceros y en que medida se van realizando aportaciones en lo que se refiere al trabajo original.
+
+- Se permite el uso comercial, lo que incrementa las posibilidades que empresas puedan interesarse en los datos generados, permitiendo así, la realización de nuevos proyectos que reporten un reconocimiento al autor original.
+
+- Las nuevas contribuciones han de ser publicades bajo la misma licencia, lo que permite que se le reconozca al autor original en todo momento y bajo los mismo terminos que fueron planteadas para el.

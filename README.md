@@ -1,2 +1,1 @@
-# Usuarios mejor valorados en Stackoverflow:
-# los datos de mayor interes.
+# Usuarios mejor valorados en Stackoverflow

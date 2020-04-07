@@ -116,9 +116,3 @@ with open('top_50_stackoverflow.csv', mode='w',newline="",encoding="utf-8") as f
     
     for i in data_top_users:
         file_writer.writerow(i)
-        
-data_top_users=[]
-with open('top_50_stackoverflow.csv', mode="r",encoding="utf-8") as file:
-    file_reader = csv.reader(file, delimiter=';')
-    for row in file_reader:
-        data_top_users.append(row)

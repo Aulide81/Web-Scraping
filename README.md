@@ -74,8 +74,6 @@ Una posible licencia para este conjunto de datos podría ser  CC BY-SA 4.0 Licen
 
 Tanto el código fuente como el dataset generado se encuentran en este repositorio. 
 
-Además también se ha subido el dataset a la plataforma Zenodo:
-
-**DOI:**
+Además también se ha subido el dataset a la plataforma Zenodo accesible mediante el siguiente **DOI**:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3743820.svg)](https://doi.org/10.5281/zenodo.3743820).

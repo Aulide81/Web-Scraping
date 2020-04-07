@@ -66,3 +66,7 @@ Una posible licencia para este conjunto de datos podría ser  CC BY-SA 4.0 Licen
 - Se permite el uso comercial, lo que incrementa las posibilidades que empresas puedan interesarse en los datos generados, permitiendo así, la realización de nuevos proyectos que reporten un reconocimiento al autor original.
 
 - Las nuevas contribuciones han de ser publicades bajo la misma licencia, lo que permite que se le reconozca al autor original en todo momento y bajo los mismo terminos que fueron planteadas para el.
+
+## Código Python y dataset
+
+Tanto el código fuente como el dataset génerado se encuentra en este repositorio. Además también se ha subido el dataset a la plataforma de Zenodo.

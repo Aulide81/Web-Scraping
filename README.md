@@ -1,6 +1,6 @@
 <div class="fluid-row" id="header">
 <h1 class="title toc-ignore">Tiplogía y ciclo de vida de los datos: Práctica 1</h1>
-<p class="author"><em><strong>Autor:<strong> Emilio Arenas</em></p>
+<p class="author"><em><strong>Autor:<strong> Emilio</strong> Arenas</em></p>
 <p class="date"><em>Abril 2020</em></p>
 </div>
 

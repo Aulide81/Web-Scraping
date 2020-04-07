@@ -76,7 +76,10 @@ Tanto el código fuente como el dataset generado se encuentran en este repositor
 
 Además también se ha subido el dataset a la plataforma Zenodo:
 
+**DOI:**
+
 <a href="https://doi.org/10.5281/zenodo.3743820"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3743820.svg" alt="DOI"></a>
 
 **DOI:**
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3743820.svg)](https://doi.org/10.5281/zenodo.3743820).

@@ -1,3 +1,8 @@
+---
+author: "Autor: Emilio Arenas"
+date: "Noviembre 2018"
+---
+
 # Usuarios mejor valorados en Stackoverflow <img align="center" width="100" height="100" src="image/Imagen1.png"> 
 
 ## Contexto

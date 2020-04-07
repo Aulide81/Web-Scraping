@@ -37,3 +37,5 @@ El dataset consta de 50 observaciones y 16 atributos atributos:
 - **score_top_tag:** Puntuación acumulada en la temática que más ha participado (durante toda su actividad).
 - **posts_top_tag:** Número de posts de la temática que más ha participado (durante toda su actividad).
 - **pct_posts_top_tag:** Porcentage sobre el total, que representa el número posts de la tématica que más ha participado (durante toda su actividad).
+
+Los datos fueron recopilados por medio de web scraping en Python sobre las páginas individuales de cada usuario disponibles en la web stackoverflow, pero en primer lugar se extrajo del ranking los 50 usuarios mejor valorados, que se encuentra <en este enlace>[link](https://stackexchange.com/leagues). Por medio de web scraping, conseguimos el nombre de usuario, link de su perfil, entre otras. Después, en disposición de estos links, se accede a cada una de las páginas individuales donde se encuentra el resto de información relevante y que es obtenida por más web scraping. Por último, los datos se almacenan en fichero CSV.

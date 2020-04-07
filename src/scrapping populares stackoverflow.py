@@ -106,7 +106,8 @@ for i in range(0,len(data_top_users)):
 with open('top_50_stackoverflow.csv', mode='w',newline="",encoding="utf-8") as file:
     file_writer = csv.writer(file,delimiter=';')    
     
-    file_writer.writerow(["user","href","gold_badges","silver_badges",                         "bronze_badges","current_position",
+    file_writer.writerow(["user","href","gold_badges","silver_badges",
+                          "bronze_badges","current_position",
                          "change_position","total_reputation",
                          "year_reputation","answers","questions",
                          "people_reached","total_tags","top_tag",

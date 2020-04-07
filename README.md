@@ -1,5 +1,5 @@
 <div class="fluid-row" id="header">
-<h1 class="title toc-ignore">Tiplogía y ciclo de vida de los datos: Práctica 1</h1>
+<h1 class="title toc-ignore">Tipología y ciclo de vida de los datos: Práctica 1</h1>
 <p class="author"><em>Autor: Emilio Arenas</em></p>
 </div>
 

@@ -1,3 +1,5 @@
+#Este código esta diseñado para ser ejecutado en un entorno interactivo de Python (IPython).
+
 #Librerias necesarias
 import requests
 from bs4 import BeautifulSoup

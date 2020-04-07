@@ -1,2 +1,2 @@
 # Usuarios mejor valorados en Stackoverflow
-<img align="center" width="600" height="200" src="image/Imagen1.png">
+<img align="center" width="100" height="100" src="image/Imagen1.png">
